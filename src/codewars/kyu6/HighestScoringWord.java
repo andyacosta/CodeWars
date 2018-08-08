@@ -1,4 +1,4 @@
-package codewars.kata;
+package codewars.kyu6;
 
 import java.util.Arrays;
 import java.util.Comparator;
